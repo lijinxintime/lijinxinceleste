@@ -1,0 +1,50 @@
+body,ul,li{
+	margin:0 auto;
+	padding:0px;
+	background-color:#f6e4e4}
+div li{
+	width:104px;
+	height: 20px;
+	background-color:#710069;
+	position: relative;
+	float: left;
+	text-align: center;
+	list-style:none;
+	border: solid 1px 
+
+}
+div a{
+	text-decoration: none;
+	margin: 0 auto;
+	padding: 0px;
+	font-size: 100%;color: #fff;
+	display: block;
+
+}
+div li .hidden{
+	display: none;
+}
+div li:hover .hidden{
+	display: block;
+}
+div li .hidden li .disappear{
+	display:none;
+	position: relative;
+    left: 105px;
+    top:-13px;
+}
+div li .hidden li:hover .disappear{
+	display: block;
+}
+div li li li{clear:both;}
+li:hover{
+	background-color: #3da134
+}
+button{
+	width: 91px;
+	height: 27px;
+	text-align:center;
+}
+button>a{
+	   text-decoration: none;
+}
