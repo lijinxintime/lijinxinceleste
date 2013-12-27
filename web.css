@@ -1,63 +1,55 @@
-.set1{
+.setone{
 	width:1284px;
 	height:36px;
 	background:url(img/img1.gif) repeat;
 }
-.set2{
+.settwo{
 	width: 1284px;
 	height:1384px;
 	background: url(img/img2.gif) repeat;
 	position: absolute;
-	top: 28px
+	top: 44px
 }
-.set3{
-	width: 982px;
+.setthree{
+	width: 1007px;
 	height: 635px;
 	background: url(img/img3.gif) repeat;
 	position:absolute;
 	top:676px;
 	left: 185px; 
 }
-.set4{
-    width: 76px;
-	height: 32px;
-	background: url(img/img11.gif);
+.setfour{
+    width: 58px;
+	height: 27px;
+	background: url(img/img33.gif);
 	position:absolute;
 	top:384px;
 	left: 732px; 
 
 }
-.set5{
+.setfive{
 	position: absolute;
-	top: 19px;
+	top: 17px;
 	left: 185px;
 	width: 132.53px;
 	height: 12px;
 	background: url(img/img9.gif);
 }
-.set6{
+.setsix{
 	position: absolute;
 	width: 1284px;
 	height: 25px;
 	background: url(img/img23.gif);
 }
-.set7{
-	position: absolute;
-	top:100px ;
-	left:185px;
-	width:947px;
-	height:67px;
-	background: url(img/img5.gif);
-}
-.set8{
+.seteidht{
 	position: absolute;
 	top:37px;
 	left: 907px;
-	width: 221px;
+	width: 220px;
 	height: 32px;
 	background: url(img/img6.gif);
 }
-.set9{
+.setnine{
 	width: 990px;
 	height: 433px;
 	position: absolute;
@@ -65,7 +57,7 @@
 	left: 175px;
 	background: url(img/img24.gif);
 }
-.set10{
+.setten{
 	position: absolute;
 	top:3px;
 	left: 213px;
@@ -73,7 +65,7 @@
 	width: 2px;
 	height: 23px;
 }
-.set11{
+.setelven{
 	position: absolute;
 	top: 63px;
 	left: 1px;
@@ -83,7 +75,7 @@
 
 
 }
-.set12{
+.settwlve{
 	position: absolute;
 	top: 63px;
 	right: 26px;
@@ -93,7 +85,7 @@
 
 
 }
-.set13{
+.setthirteen{
 	position: absolute;
 	top: 365px;
 	right: 26px;
@@ -103,7 +95,7 @@
 
 
 }
-.set14{
+.setfourteen{
 	position: absolute;
 	top: 365px;
 	left: 1px;
@@ -113,7 +105,7 @@
 
 
 }
-.set15{
+.setfifteen{
 	position: absolute;
 	top: 442px;
 	right: 22px;
@@ -121,7 +113,7 @@
 	height: 153px;
 	background: url(img/img21.gif);
 }
-.set16{
+.setsixteen{
    position: absolute;
 	top: 23px;
 	right: 244px;
@@ -130,7 +122,7 @@
 	background: url(img/img27.gif);
 
 }
-.set17{
+.setseventeen{
    position: absolute;
 	top: 23px;
     left: 33px;
@@ -138,7 +130,7 @@
 	height: 18px;
 	background: url(img/img28.gif);
 }
-.set18{
+.seteighteen{
    position: absolute;
 	top: 333px;
     left: 33px;
@@ -146,7 +138,7 @@
 	height: 18px;
 	background: url(img/img30.gif);
 }
-.set19{
+.setnineteen{
  position: absolute;
 	top: 333px;
 	right: 244px;
@@ -154,24 +146,23 @@
 	height: 18px;
 	background: url(img/img32.gif);
 }
-.set20{
+.settwenty{
  position: absolute;
 	top: 81px;
 	right: 22px;
 	width: 243px;
 	height: 189px;
-	background: url(img/img26.gif);
 }
-.set21{
-    width: 76px;
-	height: 32px;
-	background: url(img/img11.gif);
+.settwentyo{
+    width: 57px;
+	height: 28px;
+	background: url(img/img33.gif);
 	position:absolute;
 	top:246px;
 	left: 33px; 
 
 }
-.set22{
+.settwentyt{
 	width: 575px;
 	height: 136px;
 	background: url(img/img35.gif);
@@ -179,7 +170,7 @@
 	top:85px;
 	left: 23px; 
 }
-.set23{
+.setwentyhr{
 	width: 556px;
 	height: 27px;
 	background: url(img/img34.gif);
@@ -187,25 +178,171 @@
 	top:387px;
 	left: 23px; 
 }
-.set24{
+.settwentyf{
 	width: 1335px;
 	height: 40px;
 	position: absolute;
 	top: 17px;
 	background: url(img/img7.gif);
 }
-.set25{
-	width: 246px;
+.settwentyfi{
+	width: 245px;
 	height: 35px;
 	position: absolute;
 	top: 37px;
 	left: 185px;
 	background: url(img/img36.gif);
 }
-
-a{
-	text-decoration: none;
+.settwentys{
+	width: 253px;
+	height: 19px;
 	position: absolute;
-	top:6px;
-	left:20px;
+	top: 385px;
+	left: 202px;
+	background: url(img/img37.gif);
+}
+.settwentyse{
+	width: 946px;
+	height: 67px;
+	position: absolute;
+	top: 92px;
+	left: 185px;
+	background: url(img/img5.gif);
+}
+.settwentye{
+	width: 589px;
+	height: 161px;
+	position: absolute;
+	top: 441px;
+	left: 25px;
+	background: url(img/img45.gif);
+}
+.settwentn{
+	width: 526px;
+	height: 103px;
+	position: absolute;
+	top: 475px;
+	left: 52px;
+	background: url(img/img44.gif);
+}
+.setthirty{
+	width: 211px;
+	height: 98px;
+	position: absolute;
+	top: 333px;
+	left: 653px;
+	background: url(img/img43.gif);
+}
+.setthirtyo{
+	width: 309px;
+	height: 10px;
+	position: absolute;
+	top: 683px;
+	left: 685px;
+	background: url(img/img39.gif);
+}
+.setthirtyt{
+	width: 381px;
+	height: 10px;
+	position: absolute;
+	top: 683px;
+	left: 1px;
+	background: url(img/img40.gif);
+}
+
+.navframe{
+	width: 947px;
+	height: 67px;
+	position: absolute;
+	top: 99px;
+	left: 186px;
+	background:url(img/img11.gif);
+}
+
+.nav ul{
+	list-style: none;
+	border: 1px;
+	padding: 2px;
+	margin: 0px;
+}
+.nav ul li{
+	float: left;
+	width: 102px;
+	height: 60px;
+	text-align: center;
+	margin: 0px;
+	line-height: 64px;
+	border: 1px solid black;
+    color: white;
+} 
+.nav ul li:hover{
+	background-color: #4fa2cc;
+}
+.style>ul>li{
+	width: 358px;
+	height: 32px
+}
+
+.style>ul>li>a{  
+	list-style: none;
+		
+}
+.style>ul>li:hover{
+	color: #ffffff
+
+
+}
+
+li:hover{
+	color: #ffffff
+}
+.search{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 32px;
+	background-color: #000000;
+}
+.style>li {   
+ text-align: center;   
+ float: left;   
+ width: 70px;   
+ margin: 3px;   
+ padding: 3px;   
+ list-style-type: none;  
+}   
+.style{
+	overflow:hidden;
+	position: absolute;
+	top:77px;
+	left:604px;
+	width:395px;
+
+}
+.contact{
+	position: absolute;
+	right: 1px;
+	top: 357px
+}
+
+.nave>ul:hover{
+	background-color: #4fa2cc;
+}
+.web{
+	
+	position: absolute;
+	top: 2px;
+	left: -31px;
+	width: 87px;
+	height: 20px
+}
+.web>a{
+	text-decoration: none
+}
+.webl>a{
+	position: absolute;
+	right: 14px;
+	top: 2px;
+	text-decoration: none;
 }
